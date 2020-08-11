@@ -6,3 +6,10 @@ Step 1: npm install
 
 
 Step 2:npm start
+
+
+
+
+
+
+Please see the images to get an idea
